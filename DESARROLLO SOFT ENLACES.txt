@@ -1,0 +1,46 @@
+
+Semana 1: Gestión de proyectos de software
+
+>>> Entender las bases de la gestión de proyectos de software y de la gestión de código con Git y GitHub.
+
+https://www.youtube.com/watch?v=XWOTAbptPvY
+https://www.youtube.com/watch?v=8QzqDDbOcCA
+https://www.youtube.com/watch?v=dIIZwDy3kGk
+https://www.youtube.com/watch?v=dIIZwDy3kGk
+
+ADICIOANLES:
+
+https://github.com/torvalds/linux
+https://github.com/git/git
+https://medium.com/@dsaldarriaga/git-github-qu%C3%A9-son-y-c%C3%B3mo-se-usan-ae27ac39fc92
+
+Instalación de Github
+
+https://github.com/dahlbyk/posh-git		>>>> Plug in PowerShell Windows
+https://www.youtube.com/watch?v=cYLapo1FFmA 	>>>> Windows
+https://www.youtube.com/watch?v=FxN8uDk65Oo	>>>> Mac OS
+https://www.youtube.com/watch?v=5zM5cv1Gz34	>>>> Ubuntu
+
+================================================================================================================================
+
+Semana 2: Repaso de programación orientada a objetos e introducción a Java Spring Boot
+
+>>> Repasar los conceptos básicos de la programación orientada a objetos y recibir una introducción al framework de Spring Boot.
+
+Lecturas complementarias:
+
+https://www.freecodecamp.org/news/java-object-oriented-programming-system-principles-oops-concepts-for-beginners/
+https://www.linkedin.com/pulse/what-java-programming-used-2021-ritesh-naidu/
+https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks
+
+https://www.youtube.com/watch?v=4UP93AzkuiQ
+https://www.youtube.com/watch?v=RqYdidW65oI
+https://www.youtube.com/watch?v=QO70bGXPnls
+
+https://spring.io/quickstart
+
+https://www.youtube.com/watch?v=ibFt8S6cWEg
+
+====================================================================================================================================
+
+
